@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iQZEZ9UrO3Y=",
+  "dgSpecHash": "js7TBVN1bn0=",
   "success": true,
-  "projectFilePath": "C:\\CdCenter\\csProjects\\PvApp\\PasswordVaultAPI\\Infrastructure\\PasswordVaultAPI.Infrastructure\\PasswordVaultAPI.Infrastructure.csproj",
+  "projectFilePath": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultAPI\\Infrastructure\\PasswordVaultAPI.Infrastructure\\PasswordVaultAPI.Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

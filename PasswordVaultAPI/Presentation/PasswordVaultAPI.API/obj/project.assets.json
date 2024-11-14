@@ -4980,11 +4980,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CdCenter\\csProjects\\PvApp\\PasswordVaultAPI\\Presentation\\PasswordVaultAPI.API\\PasswordVaultAPI.API.csproj",
+      "projectUniqueName": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultAPI\\Presentation\\PasswordVaultAPI.API\\PasswordVaultAPI.API.csproj",
       "projectName": "PasswordVaultAPI.API",
-      "projectPath": "C:\\CdCenter\\csProjects\\PvApp\\PasswordVaultAPI\\Presentation\\PasswordVaultAPI.API\\PasswordVaultAPI.API.csproj",
+      "projectPath": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultAPI\\Presentation\\PasswordVaultAPI.API\\PasswordVaultAPI.API.csproj",
       "packagesPath": "C:\\Users\\alptu\\.nuget\\packages\\",
-      "outputPath": "C:\\CdCenter\\csProjects\\PvApp\\PasswordVaultAPI\\Presentation\\PasswordVaultAPI.API\\obj\\",
+      "outputPath": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultAPI\\Presentation\\PasswordVaultAPI.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alptu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5002,11 +5002,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\CdCenter\\csProjects\\PvApp\\PasswordVaultAPI\\Core\\PasswordVaultAPI.Application\\PasswordVaultAPI.Application.csproj": {
-              "projectPath": "C:\\CdCenter\\csProjects\\PvApp\\PasswordVaultAPI\\Core\\PasswordVaultAPI.Application\\PasswordVaultAPI.Application.csproj"
+            "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultAPI\\Core\\PasswordVaultAPI.Application\\PasswordVaultAPI.Application.csproj": {
+              "projectPath": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultAPI\\Core\\PasswordVaultAPI.Application\\PasswordVaultAPI.Application.csproj"
             },
-            "C:\\CdCenter\\csProjects\\PvApp\\PasswordVaultAPI\\Infrastructure\\PasswordVaultAPI.Persistence\\PasswordVaultAPI.Persistence.csproj": {
-              "projectPath": "C:\\CdCenter\\csProjects\\PvApp\\PasswordVaultAPI\\Infrastructure\\PasswordVaultAPI.Persistence\\PasswordVaultAPI.Persistence.csproj"
+            "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultAPI\\Infrastructure\\PasswordVaultAPI.Persistence\\PasswordVaultAPI.Persistence.csproj": {
+              "projectPath": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultAPI\\Infrastructure\\PasswordVaultAPI.Persistence\\PasswordVaultAPI.Persistence.csproj"
             }
           }
         }

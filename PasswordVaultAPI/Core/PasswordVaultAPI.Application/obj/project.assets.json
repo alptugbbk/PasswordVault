@@ -867,11 +867,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CdCenter\\csProjects\\PvApp\\PasswordVaultAPI\\Core\\PasswordVaultAPI.Application\\PasswordVaultAPI.Application.csproj",
+      "projectUniqueName": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultAPI\\Core\\PasswordVaultAPI.Application\\PasswordVaultAPI.Application.csproj",
       "projectName": "PasswordVaultAPI.Application",
-      "projectPath": "C:\\CdCenter\\csProjects\\PvApp\\PasswordVaultAPI\\Core\\PasswordVaultAPI.Application\\PasswordVaultAPI.Application.csproj",
+      "projectPath": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultAPI\\Core\\PasswordVaultAPI.Application\\PasswordVaultAPI.Application.csproj",
       "packagesPath": "C:\\Users\\alptu\\.nuget\\packages\\",
-      "outputPath": "C:\\CdCenter\\csProjects\\PvApp\\PasswordVaultAPI\\Core\\PasswordVaultAPI.Application\\obj\\",
+      "outputPath": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultAPI\\Core\\PasswordVaultAPI.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alptu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -889,8 +889,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\CdCenter\\csProjects\\PvApp\\PasswordVaultAPI\\Core\\PasswordVaultAPI.Domain\\PasswordVaultAPI.Domain.csproj": {
-              "projectPath": "C:\\CdCenter\\csProjects\\PvApp\\PasswordVaultAPI\\Core\\PasswordVaultAPI.Domain\\PasswordVaultAPI.Domain.csproj"
+            "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultAPI\\Core\\PasswordVaultAPI.Domain\\PasswordVaultAPI.Domain.csproj": {
+              "projectPath": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultAPI\\Core\\PasswordVaultAPI.Domain\\PasswordVaultAPI.Domain.csproj"
             }
           }
         }

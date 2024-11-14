@@ -180,3 +180,18 @@ $('#btn-delete').on('click', function (event) {
 		});
 	}
 });
+
+// MODAL
+function previewImage(event) {
+	var reader = new FileReader();
+	reader.onload = function () {
+		var output = document.getElementById('profileImagePreview');
+		output.src = reader.result;
+	};
+	reader.readAsDataURL(event.target.files[0]);
+}
+
+function resetToDefaultImage() {
+	document.getElementById('profileImagePreview').src = '~/images/default-profile.png';
+	document.getElementById('profileImageUpload').value = "";
+}

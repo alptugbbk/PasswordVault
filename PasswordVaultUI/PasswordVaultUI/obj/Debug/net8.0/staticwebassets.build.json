@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5npWVJmBbo4Ogcin6hKTA19Bgg3zib0vsIvNJJJ66u0=",
+  "Hash": "bEnPyoOeGH40fuCb/JfId8+99USs5pniVWR1cSezUsQ=",
   "Source": "PasswordVaultUI",
   "BasePath": "_content/PasswordVaultUI",
   "Mode": "Default",
@@ -112,12 +112,12 @@
       "OriginalItemSpec": "wwwroot\\assets\\ic_platfrom.png"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ic_usernav.jpg",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ic_user_profile_null.png",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
-      "RelativePath": "assets/ic_usernav.jpg",
+      "RelativePath": "assets/ic_user_profile_null.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -128,7 +128,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\ic_usernav.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\ic_user_profile_null.png"
     },
     {
       "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\img_home.jpg",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PasswordVaultAPI.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+685bd52f43ca10299e19934e27a70813bbe6dba1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39bd1e21ca815ba55be66ad840ad22849ee98e89")]
 [assembly: System.Reflection.AssemblyProductAttribute("PasswordVaultAPI.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PasswordVaultAPI.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
