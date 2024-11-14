@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vhSk64OKJ2s=",
+  "success": true,
+  "projectFilePath": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\PasswordVaultUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alptu\\.nuget\\packages\\bootstrap\\5.3.3\\bootstrap.5.3.3.nupkg.sha512",
+    "C:\\Users\\alptu\\.nuget\\packages\\jquery\\3.7.1\\jquery.3.7.1.nupkg.sha512",
+    "C:\\Users\\alptu\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

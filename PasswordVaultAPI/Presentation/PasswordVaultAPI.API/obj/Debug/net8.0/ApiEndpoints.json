@@ -1,0 +1,236 @@
+[
+  {
+    "ContainingType": "PasswordVaultAPI.API.Controllers.AuthController",
+    "Method": "ForgotPassword",
+    "RelativePath": "api/Auth/ForgotPassword",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "PasswordVaultAPI.Application.CQRS.Queries.User.ForgotPassword.ForgotPasswordQueryRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "PasswordVaultAPI.Application.CQRS.Queries.User.ForgotPassword.ForgotPasswordQueryResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PasswordVaultAPI.API.Controllers.AuthController",
+    "Method": "GoogleLogin",
+    "RelativePath": "api/Auth/GoogleLogin",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "PasswordVaultAPI.Application.CQRS.Commands.User.GoogleLogin.GoogleLoginCommandRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "PasswordVaultAPI.Application.CQRS.Commands.User.GoogleLogin.GoogleLoginCommandResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PasswordVaultAPI.API.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "PasswordVaultAPI.Application.CQRS.Queries.User.LoginUser.LoginUserQueryRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "PasswordVaultAPI.Application.CQRS.Queries.User.LoginUser.LoginUserQueryResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PasswordVaultAPI.API.Controllers.AuthController",
+    "Method": "Register",
+    "RelativePath": "api/Auth/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "PasswordVaultAPI.Application.CQRS.Commands.User.CreateUser.CreateUserCommandRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "PasswordVaultAPI.Application.CQRS.Commands.User.CreateUser.CreateUserCommandResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PasswordVaultAPI.API.Controllers.AuthController",
+    "Method": "ResetPassword",
+    "RelativePath": "api/Auth/ResetPassword",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "PasswordVaultAPI.Application.CQRS.Commands.User.ResetPassword.ResetPasswordCommandRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "PasswordVaultAPI.Application.CQRS.Commands.User.ResetPassword.ResetPasswordCommandResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PasswordVaultAPI.API.Controllers.PlatformController",
+    "Method": "CreatePlatform",
+    "RelativePath": "api/Platform/CreatePlatform",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "PasswordVaultAPI.Application.CQRS.Commands.Platform.CreatePlatform.CreatePlatformCommandRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "PasswordVaultAPI.Application.CQRS.Commands.Platform.CreatePlatform.CreatePlatformCommandResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PasswordVaultAPI.API.Controllers.PlatformController",
+    "Method": "DeletePlatform",
+    "RelativePath": "api/Platform/DeletePlatform",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "PasswordVaultAPI.Application.CQRS.Commands.Platform.DeletePlatform.DeletePlatformCommandRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "PasswordVaultAPI.Application.CQRS.Commands.Platform.DeletePlatform.DeletePlatformCommandResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PasswordVaultAPI.API.Controllers.PlatformController",
+    "Method": "GetPlatform",
+    "RelativePath": "api/Platform/GetPlatform",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "PasswordVaultAPI.Application.CQRS.Queries.Platform.GetAllPlatformsByUserId.GetPlatformsQueryRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "PasswordVaultAPI.Application.CQRS.Queries.Platform.GetAllPlatformsByUserId.GetPlatformsQueryResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PasswordVaultAPI.API.Controllers.PlatformController",
+    "Method": "UpdatePlatform",
+    "RelativePath": "api/Platform/UpdatePlatform",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "PasswordVaultAPI.Application.CQRS.Commands.Platform.UpdatePlatform.UpdatePlatformCommandRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "PasswordVaultAPI.Application.CQRS.Commands.Platform.UpdatePlatform.UpdatePlatformCommandResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

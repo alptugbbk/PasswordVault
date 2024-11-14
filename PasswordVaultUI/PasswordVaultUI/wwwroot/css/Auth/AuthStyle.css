@@ -1,0 +1,150 @@
+﻿
+body {
+    display: flex;
+    font-family: 'poppins', sans-serif;
+    background: rgb(246, 246, 246);
+    padding: 40px 0 40px;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+/* AUTH DIV*/
+.auth-container {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: white;
+    width: 500px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+
+/* FORMM*/
+.login-form {
+    width: 320px;
+    margin: auto;
+}
+
+
+
+/* LOGO */
+.login-img-container {
+    display: flex;
+    justify-content: center;
+    height: 120px;
+    margin-bottom: 50px;
+}
+
+.register-img-container {
+    display: flex;
+    justify-content: center;
+    height: 120px;
+    margin-bottom: 25px;
+}
+
+
+
+
+/* INPUT*/
+.form-control {
+    position: relative;
+    box-sizing: border-box;
+    box-shadow: 0 0 5px rgba(0, 255, 234, 0.1);
+    margin-bottom: 7px;
+}
+
+
+
+    .form-control:focus {
+        border-color: #012453;
+        box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+        outline: none;
+    }
+
+    .form-control::placeholder {
+        color: #aaaa;
+        opacity: 1;
+        font-style: italic;
+    }
+
+
+
+
+    /*ALERT MESSAGE*/
+
+.message {
+    color: red;
+    text-align: center;
+}
+
+
+
+    /*TOGGLEPASSWORD*/
+
+.input-container {
+    position: relative;
+}
+
+#toggle-password {
+    cursor: pointer;
+    position: absolute;
+    right: 15px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 1.2rem;
+}
+
+
+/* BUTTON*/
+.authbtn-container {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.auth-button {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s, transform 0.3s;
+    width: 300px;
+    border-color: #0274f9;
+}
+
+
+    .auth-button:hover {
+        background-color: #0274f9;
+        border-color: #0274f9;
+        transform: scale(1.05);
+        color: #ffffff;
+        font-weight: bold;
+    }
+
+
+
+    .auth-button:active {
+        transform: translateY(2px);
+    }
+
+
+
+.text-primary-container {
+    text-align: center;
+}
+
+.text-primary{
+    display: inline-block;
+    white-space:nowrap;
+    cursor:pointer;
+    text-align:center;
+}
+
+

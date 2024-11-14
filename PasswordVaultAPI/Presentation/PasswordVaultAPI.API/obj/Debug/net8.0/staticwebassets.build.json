@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "E4LGcOXJlEmzUaTVjaXcrRXBD2oqu9UsBRDNztKlKgw=",
+  "Source": "PasswordVaultAPI.API",
+  "BasePath": "_content/PasswordVaultAPI.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
