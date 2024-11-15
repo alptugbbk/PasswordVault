@@ -1,5 +1,6 @@
 ﻿@{
     var userName = ViewData["UserName"] as string;
+    var profilePicture = ViewData["ProfilePicturePath"] as string;
 }
 
 <!DOCTYPE html>
@@ -25,17 +26,17 @@
                         <a class="nav-link" href="/Platform/PIndex">Platform</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/Auth/Login">Login</a>
+                        <a class="nav-link" href="/Auth/Login">Log in</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/Auth/Register">Register</a>
+                        <a class="nav-link" href="/Auth/Register">Sign up</a>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                            <img src="@Url.Content("~/assets/ic_user_profile_null.png")" alt="null" class="rounded-circle" width="30" height="30"> @userName
+                            <img src="@Url.Content(profilePicture)" alt="null" class="rounded-circle" width="30" height="30"> @userName
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <li><a class="dropdown-item" href="#" data-bs-toggle="modal" data-bs-target="#profileModal">Profil</a></li>
+                            <li><a class="dropdown-item" href="#" data-bs-toggle="modal" data-bs-target="#profileModal">Profile</a></li>
                             <li><a class="dropdown-item" href="#" id="btnlogout">Logout</a></li>
                         </ul>
                     </li>
@@ -46,17 +47,17 @@
                         <a class="nav-link" href="/Platform/PIndex">Platform</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/Auth/Login">Login</a>
+                        <a class="nav-link" href="/Auth/Login">Log in</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/Auth/Register">Register</a>
+                        <a class="nav-link" href="/Auth/Register">Sign up</a>
                     </li>
                 }
             </ul>
         </div>
     </nav>
 
-    <div class="container" style="margin-top: 80px;">
+    <div class="container"@*  style="margin-top: 80px; *@">
         @RenderBody()
     </div>
     

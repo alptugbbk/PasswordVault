@@ -3,7 +3,9 @@ using Microsoft.AspNetCore.Mvc;
 using PasswordVaultAPI.Application.CQRS.Commands.Platform.CreatePlatform;
 using PasswordVaultAPI.Application.CQRS.Commands.Platform.DeletePlatform;
 using PasswordVaultAPI.Application.CQRS.Commands.Platform.UpdatePlatform;
+using PasswordVaultAPI.Application.CQRS.Commands.User.UploadProfilePicture;
 using PasswordVaultAPI.Application.CQRS.Queries.Platform.GetAllPlatformsByUserId;
+using PasswordVaultAPI.Application.CQRS.Queries.User.GetProfilePicture;
 using PasswordVaultAPI.Application.Utilities.Outcome;
 
 namespace PasswordVaultAPI.API.Controllers
@@ -57,5 +59,25 @@ namespace PasswordVaultAPI.API.Controllers
 		}
 
 
-	}
+
+		[HttpPost("UploadProfilePicture")]
+		public async Task<UploadProfilePictureCommandResponse> UploadProfilePicture(UploadProfilePictureCommandRequest request)
+		{
+			var profile = await _mediator.Send(request);
+			return profile;
+		}
+
+
+
+        [HttpPost("GetProfilePicture")]
+        public async Task<GetProfilePictureQueryResponse> GetProfilePicture(GetProfilePictureQueryRequest request)
+        {
+            var profile = await _mediator.Send(request);
+            return profile;
+        }
+
+
+
+
+    }
 }

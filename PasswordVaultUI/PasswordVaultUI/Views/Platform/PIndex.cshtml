@@ -17,6 +17,14 @@
 
 	<div class="container-wrapper">
 
+		<!--MESSAGE-->
+		<div id="message-container" class="position-fixed top-0 end-0 p-4 mt-5" style="z-index: 1050;">
+			<div id="success-message" class="alert alert-success d-none" role="alert">
+			</div>
+			<div id="error-message" class="alert alert-danger d-none" role="alert">
+			</div>
+		</div>
+
 		<!-- INPUT CONTAINER -->
 		<div class="platform-container">
 			<form class="platform-form" id="platform-form">
@@ -38,6 +46,7 @@
 			</form>
 		</div>
 
+
 		<!-- LIST CONTAINER -->
 		<div class="platform-list-container">
 			<ul class="list-container" id="user-list"></ul>
@@ -49,9 +58,6 @@
 	
 
 
-
-
-
 	<!--MODAL-->
 	<div class="modal fade" id="profileModal" tabindex="-1" aria-labelledby="profileModalLabel" aria-hidden="true">
 		<div class="modal-dialog modal-dialog-centered">
@@ -61,12 +67,12 @@
 					<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
 				</div>
 				<div class="modal-body">
-					<!-- Profil Fotoğrafı Alanı -->
+					<!--Profile image-->
 					<div class="mb-3 text-center">
 						<img src="~/assets/ic_user_profile_null.png" class="rounded-circle" id="profileImagePreview" style="width: 100px; height: 100px; object-fit: cover;">
 						<input type="file" id="profileImageUpload" class="form-control mt-2" onchange="previewImage(event)">
 					</div>
-					<!-- Kullanıcı Bilgileri -->
+					<!--Profile info-->
 
 
 				</div>
@@ -79,6 +85,9 @@
 	</div>
 
 	<script src="~/lib/jquery/dist/jquery.min.js"></script>
-	<script src="~/js/platfromjs/platform.js"></script>
+	<script src="~/js/common/submitajax.js"></script>
+	<script src="~/js/popups/userprofile.js"></script>
+	<script src="~/js/platfrom/platform.js"></script>
+	
 </body>
 </html>

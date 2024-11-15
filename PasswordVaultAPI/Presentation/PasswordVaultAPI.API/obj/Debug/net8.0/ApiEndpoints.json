@@ -209,6 +209,32 @@
   },
   {
     "ContainingType": "PasswordVaultAPI.API.Controllers.PlatformController",
+    "Method": "GetProfilePicture",
+    "RelativePath": "api/Platform/GetProfilePicture",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "PasswordVaultAPI.Application.CQRS.Queries.User.GetProfilePicture.GetProfilePictureQueryRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "PasswordVaultAPI.Application.CQRS.Queries.User.GetProfilePicture.GetProfilePictureQueryResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PasswordVaultAPI.API.Controllers.PlatformController",
     "Method": "UpdatePlatform",
     "RelativePath": "api/Platform/UpdatePlatform",
     "HttpMethod": "POST",
@@ -224,6 +250,32 @@
     "ReturnTypes": [
       {
         "Type": "PasswordVaultAPI.Application.CQRS.Commands.Platform.UpdatePlatform.UpdatePlatformCommandResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PasswordVaultAPI.API.Controllers.PlatformController",
+    "Method": "UploadProfilePicture",
+    "RelativePath": "api/Platform/UploadProfilePicture",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "PasswordVaultAPI.Application.CQRS.Commands.User.UploadProfilePicture.UploadProfilePictureCommandRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "PasswordVaultAPI.Application.CQRS.Commands.User.UploadProfilePicture.UploadProfilePictureCommandResponse",
         "MediaTypes": [
           "text/plain",
           "application/json",

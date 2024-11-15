@@ -29,15 +29,23 @@ namespace PasswordVaultUI.Controllers
         
         public IActionResult PIndex(PlatformViewModel platformViewModel)
         {
-            var userName = HttpContext.Session.GetString("UserName");
-            ViewData["UserName"] = userName ?? "Kullanıcı Adı";
 
-            var model = new PlatformViewModel
+            var userName = HttpContext.Session.GetString("UserName");
+
+            var profilePicture = HttpContext.Session.GetString("ProfilePicturePath");
+
+			ViewData["UserName"] = userName ?? "Kullanıcı Adı";
+
+			ViewData["ProfilePicturePath"] = profilePicture ?? "~/assets/ic_user_profile_null.png";
+
+			var model = new PlatformViewModel
             {
-				LoginUserName = userName
+				LoginUserName = userName,
+                ProfilePicturePath = profilePicture
             };
 
             return View(model);
+
         }
 
 
@@ -189,9 +197,129 @@ namespace PasswordVaultUI.Controllers
 
 
 
-        public IActionResult Logout()
+        public async Task<IActionResult> UploadProfilePicture(IFormFile profilePicture)
         {
-           HttpContext.Session.Remove("UserId");
+            var allowedExtensions = new[] { ".jpg", ".jpeg", ".png" };
+
+            if (profilePicture == null || profilePicture.Length == 0)
+            {
+                return Json(new { success = false, message = "file could not be uploaded" });
+            }
+
+            var fileExtension = Path.GetExtension(profilePicture.FileName).ToLowerInvariant();
+
+            if (!allowedExtensions.Contains(fileExtension) ||
+                (profilePicture.ContentType != "image/png" &&
+                 profilePicture.ContentType != "image/jpg" &&
+                 profilePicture.ContentType != "image/jpeg"))
+            {
+                return Json(new { success = false, message = "Only JPG, JPEG or PNG files are accepted." });
+            }
+
+            var userId = HttpContext.Session.GetString("UserId");
+
+            var uploadsFolder = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "assets", "ProfilePictures");
+
+            if (!Directory.Exists(uploadsFolder))
+            {
+                Directory.CreateDirectory(uploadsFolder);
+            }
+
+            var fileName = $"{Guid.NewGuid()}{fileExtension}";
+
+            var filePath = Path.Combine(uploadsFolder, fileName);
+
+            using (var stream = new FileStream(filePath, FileMode.Create))
+            {
+                await profilePicture.CopyToAsync(stream);
+            }
+
+            var relativeFilePath = Path.Combine("assets", "ProfilePictures", fileName);
+
+            var request = new UploadProfilePictureRequestDTO
+            {
+                UserId = userId,
+                ProfilePicturePath = relativeFilePath
+            };
+
+            var convert = JsonConvert.SerializeObject(request);
+            var content = new StringContent(convert, Encoding.UTF8, "application/json");
+
+            var httpRequestMessage = new HttpRequestMessage(HttpMethod.Post, "https://localhost:7173/api/Platform/UploadProfilePicture")
+            {
+                Content = content
+            };
+            httpRequestMessage.Headers.Add("UserId", userId);
+
+            var response = await _httpClient.SendAsync(httpRequestMessage);
+
+            if (response.IsSuccessStatusCode)
+            {
+
+                return Json(new { success = true });
+            }
+            else
+            {
+                return Json(new { success = false });
+            }
+        }
+
+
+
+        [HttpPost]
+        public async Task<IActionResult> GetProfilePicture()
+        {
+            var userId = HttpContext.Session.GetString("UserId");
+
+            var request = new GetProfilePictureRequestDTO
+            {
+                UserId = userId
+            };
+
+            var convert = JsonConvert.SerializeObject(request);
+
+            var content = new StringContent(convert, Encoding.UTF8, "application/json");
+
+            var httpRequestMessage = new HttpRequestMessage(HttpMethod.Post, "https://localhost:7173/api/platform/getprofilepicture")
+            {
+                Content = content
+            };
+
+            httpRequestMessage.Headers.Add("UserId", userId);
+
+            var response = await _httpClient.SendAsync(httpRequestMessage);
+
+            if (response.IsSuccessStatusCode)
+            {
+                var result = await response.Content.ReadAsStringAsync();
+
+                var profile = JsonConvert.DeserializeObject<GetProfilePictureResponseDTO>(result);
+
+				var fullPath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", profile.ProfilePicturePath);
+
+				var path = "/assets/ProfilePictures/" + Path.GetFileName(fullPath);
+
+                HttpContext.Session.SetString("ProfilePicturePath", path);
+
+				return Json(new { success = true, path = "/assets/ProfilePictures/" + Path.GetFileName(fullPath) });
+
+			}
+
+			return Json(new { success = false });
+
+        }
+
+
+
+		public IActionResult Logout()
+        {
+
+            HttpContext.Session.Clear();
+
+			foreach (var cookie in Request.Cookies.Keys)
+			{
+				Response.Cookies.Delete(cookie);
+			}
 
 			return Json(new { redirectUrl = Url.Action("Login", "Auth") });
 		}
@@ -200,3 +328,7 @@ namespace PasswordVaultUI.Controllers
 
     }
 }
+
+
+
+

@@ -12,8 +12,8 @@ using PasswordVaultAPI.Persistence.Context;
 namespace PasswordVaultAPI.Persistence.Migrations
 {
     [DbContext(typeof(MyContext))]
-    [Migration("20241025084524_mig_two")]
-    partial class mig_two
+    [Migration("20241115081905_mig_one")]
+    partial class mig_one
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -84,7 +84,7 @@ namespace PasswordVaultAPI.Persistence.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("Salt")
+                    b.Property<string>("ProfilePicture")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 

@@ -81,6 +81,9 @@ namespace PasswordVaultAPI.Persistence.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("ProfilePicture")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<DateTime>("UpdatedDate")
                         .HasColumnType("datetime2");
 

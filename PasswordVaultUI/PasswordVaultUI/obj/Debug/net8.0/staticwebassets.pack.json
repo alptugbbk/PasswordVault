@@ -1,6 +1,58 @@
 {
   "Files": [
     {
+      "Id": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ProfilePictures\\161a6e9e-1a8d-4159-e6eb-08dd055049b6_67f4b8d2-aed7-4f9a-ba91-aded4d7c78e2.jpg",
+      "PackagePath": "staticwebassets\\assets\\ProfilePictures\\161a6e9e-1a8d-4159-e6eb-08dd055049b6_67f4b8d2-aed7-4f9a-ba91-aded4d7c78e2.jpg"
+    },
+    {
+      "Id": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ProfilePictures\\161a6e9e-1a8d-4159-e6eb-08dd055049b6_b0d1872e-b1f2-42c8-ad6b-905cd9e71716.jpg",
+      "PackagePath": "staticwebassets\\assets\\ProfilePictures\\161a6e9e-1a8d-4159-e6eb-08dd055049b6_b0d1872e-b1f2-42c8-ad6b-905cd9e71716.jpg"
+    },
+    {
+      "Id": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ProfilePictures\\24990aed-7ae9-4643-be6b-4f0a525ae792.jpg",
+      "PackagePath": "staticwebassets\\assets\\ProfilePictures\\24990aed-7ae9-4643-be6b-4f0a525ae792.jpg"
+    },
+    {
+      "Id": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ProfilePictures\\26190995-4b5c-4401-85ce-1931421a205a.jpg",
+      "PackagePath": "staticwebassets\\assets\\ProfilePictures\\26190995-4b5c-4401-85ce-1931421a205a.jpg"
+    },
+    {
+      "Id": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ProfilePictures\\2ebaef51-dd6d-4ba7-a8bc-e36e940a5bd7.jpg",
+      "PackagePath": "staticwebassets\\assets\\ProfilePictures\\2ebaef51-dd6d-4ba7-a8bc-e36e940a5bd7.jpg"
+    },
+    {
+      "Id": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ProfilePictures\\933d1c9f-0787-458b-a0ca-3e7e6fcbf2df.jpg",
+      "PackagePath": "staticwebassets\\assets\\ProfilePictures\\933d1c9f-0787-458b-a0ca-3e7e6fcbf2df.jpg"
+    },
+    {
+      "Id": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ProfilePictures\\9d64e216-daad-4d49-9b4f-1b94aee5622c.jpg",
+      "PackagePath": "staticwebassets\\assets\\ProfilePictures\\9d64e216-daad-4d49-9b4f-1b94aee5622c.jpg"
+    },
+    {
+      "Id": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ProfilePictures\\a244efe0-aadc-4844-b6f7-b57670e17f70.jpg",
+      "PackagePath": "staticwebassets\\assets\\ProfilePictures\\a244efe0-aadc-4844-b6f7-b57670e17f70.jpg"
+    },
+    {
+      "Id": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ProfilePictures\\ab10360e-ebb5-439d-a476-f2628d209924.jpg",
+      "PackagePath": "staticwebassets\\assets\\ProfilePictures\\ab10360e-ebb5-439d-a476-f2628d209924.jpg"
+    },
+    {
+      "Id": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ProfilePictures\\b682cb5d-18f5-46ad-8b58-21ee851e96ef.jpg",
+      "PackagePath": "staticwebassets\\assets\\ProfilePictures\\b682cb5d-18f5-46ad-8b58-21ee851e96ef.jpg"
+    },
+    {
+      "Id": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ProfilePictures\\b807a1c3-5911-4c6b-867e-9c628200f07d.jpg",
+      "PackagePath": "staticwebassets\\assets\\ProfilePictures\\b807a1c3-5911-4c6b-867e-9c628200f07d.jpg"
+    },
+    {
+      "Id": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ProfilePictures\\d6401cb2-a0a1-4303-ba5f-0a4a8871246a.jpg",
+      "PackagePath": "staticwebassets\\assets\\ProfilePictures\\d6401cb2-a0a1-4303-ba5f-0a4a8871246a.jpg"
+    },
+    {
+      "Id": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ProfilePictures\\fe5ccd62-223f-4d54-afce-5cbb83860668.jpg",
+      "PackagePath": "staticwebassets\\assets\\ProfilePictures\\fe5ccd62-223f-4d54-afce-5cbb83860668.jpg"
+    },
+    {
       "Id": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ic_forgot_password.png",
       "PackagePath": "staticwebassets\\assets\\ic_forgot_password.png"
     },
@@ -45,32 +97,36 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\js\\AuthJS\\ForgotPassword.js",
-      "PackagePath": "staticwebassets\\js\\AuthJS\\ForgotPassword.js"
+      "Id": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\js\\Auth\\ForgotPassword.js",
+      "PackagePath": "staticwebassets\\js\\Auth\\ForgotPassword.js"
     },
     {
-      "Id": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\js\\AuthJS\\Login.js",
-      "PackagePath": "staticwebassets\\js\\AuthJS\\Login.js"
+      "Id": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\js\\Auth\\Login.js",
+      "PackagePath": "staticwebassets\\js\\Auth\\Login.js"
     },
     {
-      "Id": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\js\\AuthJS\\Register.js",
-      "PackagePath": "staticwebassets\\js\\AuthJS\\Register.js"
+      "Id": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\js\\Auth\\Register.js",
+      "PackagePath": "staticwebassets\\js\\Auth\\Register.js"
     },
     {
-      "Id": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\js\\AuthJS\\ResetPassword.js",
-      "PackagePath": "staticwebassets\\js\\AuthJS\\ResetPassword.js"
+      "Id": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\js\\Auth\\ResetPassword.js",
+      "PackagePath": "staticwebassets\\js\\Auth\\ResetPassword.js"
     },
     {
-      "Id": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\js\\AuthJS\\TogglePassword.js",
-      "PackagePath": "staticwebassets\\js\\AuthJS\\TogglePassword.js"
+      "Id": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\js\\Auth\\TogglePassword.js",
+      "PackagePath": "staticwebassets\\js\\Auth\\TogglePassword.js"
     },
     {
-      "Id": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\js\\CommonJS\\SubmitAjax.js",
-      "PackagePath": "staticwebassets\\js\\CommonJS\\SubmitAjax.js"
+      "Id": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\js\\Common\\SubmitAjax.js",
+      "PackagePath": "staticwebassets\\js\\Common\\SubmitAjax.js"
     },
     {
-      "Id": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\js\\PlatfromJS\\Platform.js",
-      "PackagePath": "staticwebassets\\js\\PlatfromJS\\Platform.js"
+      "Id": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\js\\Platfrom\\Platform.js",
+      "PackagePath": "staticwebassets\\js\\Platfrom\\Platform.js"
+    },
+    {
+      "Id": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\js\\Popups\\UserProfile.js",
+      "PackagePath": "staticwebassets\\js\\Popups\\UserProfile.js"
     },
     {
       "Id": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\js\\site.js",
