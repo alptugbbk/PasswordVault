@@ -266,7 +266,6 @@ namespace PasswordVaultUI.Controllers
 
 
 
-        [HttpPost]
         public async Task<IActionResult> GetProfilePicture()
         {
             var userId = HttpContext.Session.GetString("UserId");

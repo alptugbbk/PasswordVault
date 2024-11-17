@@ -1,9 +1,7 @@
 ﻿
 $(document).ready(function () {
 
-    loadNavbarProfileImage();
-
-
+    loadNavbarProfilePicture();    
     $('#profileModal').on('show.bs.modal', function () {
         loadProfilePictureInModal();
     });
@@ -15,20 +13,20 @@ $(document).ready(function () {
     $('#saveProfileBtn').on('click', saveProfile);
 });
 
+function loadNavbarProfilePicture() {
 
-function loadNavbarProfileImage() {
     $.ajax({
-        url: '/Platform/GetProfilePicture',
+        url: '/Platform/GetProfilePicture', // Sunucudan profil resmini al
         method: 'POST',
         success: function (response) {
             if (response.success) {
                 $('#navbarProfileImage').attr('src', response.path + '?t=' + new Date().getTime());
             } else {
-                console.error('Profil fotoğrafı yüklenemedi');
+                console.error("Failed to load picture");
             }
         },
         error: function () {
-            console.error('Profil fotoğrafı yüklenirken bir hata oluştu');
+            console.error("There was an error loading the profile picture");
         }
     });
 }
@@ -39,14 +37,10 @@ function loadProfilePictureInModal() {
         url: '/Platform/GetProfilePicture',
         method: 'POST',
         success: function (response) {
-            if (response.success) {
                 $('#profileImagePreview').attr('src', response.path + '?t=' + new Date().getTime());
-            } else {
-                console.error('Modal için profil fotoğrafı yüklenemedi');
-            }
         },
         error: function () {
-            console.error('Modal için profil fotoğrafı yüklenirken bir hata oluştu');
+
         }
     });
 }
@@ -61,6 +55,7 @@ function previewImage(event) {
 }
 
 function saveProfile() {
+
     const formData = new FormData();
     const fileInput = document.getElementById("profileImageUpload");
     const file = fileInput.files[0];
@@ -78,10 +73,8 @@ function saveProfile() {
                 if (response.success) {
                     alert("Photo successfully saved");
                     $('#profileModal').modal('hide');
-
-
-                    $('#navbarProfileImage').attr('src', response.path + '?t=' + new Date().getTime());
-                    $('#profileImagePreview').attr('src', response.path + '?t=' + new Date().getTime());
+                    $('#profileImagePreview').attr('src', response.path);
+                    loadNavbarProfilePicture();
                 } else {
                     alert("Photo upload failed");
                 }
