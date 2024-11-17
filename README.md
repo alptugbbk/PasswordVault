@@ -21,11 +21,12 @@ Bu proje, kullanıcıların şifrelerini ve ilgili bilgilerini geri döndürüle
 
 ---
 
-https://github.com/user-attachments/assets/d634422d-b309-42e0-9fe1-a00b6b8fa748
-
-
 ## 🛠 **Kullanılan Teknolojiler**
 
 - **Backend:** ASP.NET Core (.NET 8)
 - **Mimari:** Onion Architecture
 - **Şifreleme:** AES (Geri döndürülebilir) ve SHA512 (Döndürülemez) algoritmaları
+
+---
+
+https://github.com/user-attachments/assets/d634422d-b309-42e0-9fe1-a00b6b8fa748
