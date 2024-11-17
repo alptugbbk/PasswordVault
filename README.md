@@ -25,7 +25,9 @@ Bu proje, kullanıcıların şifrelerini ve ilgili bilgilerini geri döndürüle
 
 - **Backend:** ASP.NET Core (.NET 8)
 - **Mimari:** Onion Architecture
-- **Şifreleme:** AES (Geri döndürülebilir) ve SHA512 (Döndürülemez) algoritmaları
+- **ORM:** Entity Framework
+- **Database:** MSSQL
+- **Encryption:** AES (Geri döndürülebilir) ve SHA512 (Döndürülemez) algoritmaları
 
 ---
 
