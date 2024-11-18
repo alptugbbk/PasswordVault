@@ -1,4 +1,5 @@
 ﻿using MediatR;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
 using PasswordVaultAPI.Application.DTOs.Base;
 using PasswordVaultAPI.Application.DTOs.Platform;
@@ -45,6 +46,10 @@ namespace PasswordVaultAPI.Application.CQRS.Commands.Platform.UpdatePlatform
 			await _platformRepository.UpdateAsync(platform);
 
 			await _platformRepository.SaveAsync();
+
+			var user = await _userRepository.GetWhere(x => x.Id == platform.UserId).Select(x => x.UserName).FirstOrDefaultAsync();
+
+			_logger.LogInformation("Platform updated by user: {UserName}", user);
 
 			var platfromDto = new PlatformDTO
 			{

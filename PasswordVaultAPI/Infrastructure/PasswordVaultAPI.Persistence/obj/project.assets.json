@@ -4355,11 +4355,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultAPI\\Infrastructure\\PasswordVaultAPI.Persistence\\PasswordVaultAPI.Persistence.csproj",
+      "projectUniqueName": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultAPI\\Infrastructure\\PasswordVaultAPI.Persistence\\PasswordVaultAPI.Persistence.csproj",
       "projectName": "PasswordVaultAPI.Persistence",
-      "projectPath": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultAPI\\Infrastructure\\PasswordVaultAPI.Persistence\\PasswordVaultAPI.Persistence.csproj",
+      "projectPath": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultAPI\\Infrastructure\\PasswordVaultAPI.Persistence\\PasswordVaultAPI.Persistence.csproj",
       "packagesPath": "C:\\Users\\alptu\\.nuget\\packages\\",
-      "outputPath": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultAPI\\Infrastructure\\PasswordVaultAPI.Persistence\\obj\\",
+      "outputPath": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultAPI\\Infrastructure\\PasswordVaultAPI.Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alptu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4377,8 +4377,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultAPI\\Core\\PasswordVaultAPI.Application\\PasswordVaultAPI.Application.csproj": {
-              "projectPath": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultAPI\\Core\\PasswordVaultAPI.Application\\PasswordVaultAPI.Application.csproj"
+            "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultAPI\\Core\\PasswordVaultAPI.Application\\PasswordVaultAPI.Application.csproj": {
+              "projectPath": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultAPI\\Core\\PasswordVaultAPI.Application\\PasswordVaultAPI.Application.csproj"
             }
           }
         }

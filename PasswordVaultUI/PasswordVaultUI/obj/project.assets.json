@@ -413,11 +413,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\PasswordVaultUI.csproj",
+      "projectUniqueName": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\PasswordVaultUI.csproj",
       "projectName": "PasswordVaultUI",
-      "projectPath": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\PasswordVaultUI.csproj",
+      "projectPath": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\PasswordVaultUI.csproj",
       "packagesPath": "C:\\Users\\alptu\\.nuget\\packages\\",
-      "outputPath": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\obj\\",
+      "outputPath": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alptu\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ZDji83VSFy/UFyic5xSdvk0hdbnzDgkmBLRW5f/jMoc=",
+  "Hash": "7I/Raa7DQo3QkMBdpdnVP0rVIIoohfM8dFoV7MS7ePI=",
   "Source": "PasswordVaultUI",
   "BasePath": "_content/PasswordVaultUI",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "PasswordVaultUI\\wwwroot",
       "Source": "PasswordVaultUI",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ic_forgot_password.png",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ic_forgot_password.png",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "assets/ic_forgot_password.png",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\ic_forgot_password.png"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ic_logo.png",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ic_logo.png",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "assets/ic_logo.png",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\ic_logo.png"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ic_logout.png",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ic_logout.png",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "assets/ic_logout.png",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\ic_logout.png"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ic_mail.png",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ic_mail.png",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "assets/ic_mail.png",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\ic_mail.png"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ic_platfrom.png",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ic_platfrom.png",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "assets/ic_platfrom.png",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\ic_platfrom.png"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ic_user_profile_null.png",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ic_user_profile_null.png",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "assets/ic_user_profile_null.png",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\ic_user_profile_null.png"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\img_home.jpg",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\img_home.jpg",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "assets/img_home.jpg",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img_home.jpg"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ProfilePictures\\161a6e9e-1a8d-4159-e6eb-08dd055049b6_67f4b8d2-aed7-4f9a-ba91-aded4d7c78e2.jpg",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ProfilePictures\\161a6e9e-1a8d-4159-e6eb-08dd055049b6_67f4b8d2-aed7-4f9a-ba91-aded4d7c78e2.jpg",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "assets/ProfilePictures/161a6e9e-1a8d-4159-e6eb-08dd055049b6_67f4b8d2-aed7-4f9a-ba91-aded4d7c78e2.jpg",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\ProfilePictures\\161a6e9e-1a8d-4159-e6eb-08dd055049b6_67f4b8d2-aed7-4f9a-ba91-aded4d7c78e2.jpg"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ProfilePictures\\161a6e9e-1a8d-4159-e6eb-08dd055049b6_b0d1872e-b1f2-42c8-ad6b-905cd9e71716.jpg",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ProfilePictures\\161a6e9e-1a8d-4159-e6eb-08dd055049b6_b0d1872e-b1f2-42c8-ad6b-905cd9e71716.jpg",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "assets/ProfilePictures/161a6e9e-1a8d-4159-e6eb-08dd055049b6_b0d1872e-b1f2-42c8-ad6b-905cd9e71716.jpg",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\ProfilePictures\\161a6e9e-1a8d-4159-e6eb-08dd055049b6_b0d1872e-b1f2-42c8-ad6b-905cd9e71716.jpg"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ProfilePictures\\24990aed-7ae9-4643-be6b-4f0a525ae792.jpg",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ProfilePictures\\24990aed-7ae9-4643-be6b-4f0a525ae792.jpg",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "assets/ProfilePictures/24990aed-7ae9-4643-be6b-4f0a525ae792.jpg",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\ProfilePictures\\24990aed-7ae9-4643-be6b-4f0a525ae792.jpg"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ProfilePictures\\26190995-4b5c-4401-85ce-1931421a205a.jpg",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ProfilePictures\\26190995-4b5c-4401-85ce-1931421a205a.jpg",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "assets/ProfilePictures/26190995-4b5c-4401-85ce-1931421a205a.jpg",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\ProfilePictures\\26190995-4b5c-4401-85ce-1931421a205a.jpg"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ProfilePictures\\2c777a37-97e1-41d3-a06b-f43dd270a997.jpg",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ProfilePictures\\2c777a37-97e1-41d3-a06b-f43dd270a997.jpg",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "assets/ProfilePictures/2c777a37-97e1-41d3-a06b-f43dd270a997.jpg",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\ProfilePictures\\2c777a37-97e1-41d3-a06b-f43dd270a997.jpg"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ProfilePictures\\2ebaef51-dd6d-4ba7-a8bc-e36e940a5bd7.jpg",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ProfilePictures\\2ebaef51-dd6d-4ba7-a8bc-e36e940a5bd7.jpg",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "assets/ProfilePictures/2ebaef51-dd6d-4ba7-a8bc-e36e940a5bd7.jpg",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\ProfilePictures\\2ebaef51-dd6d-4ba7-a8bc-e36e940a5bd7.jpg"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ProfilePictures\\5617bfe5-8d5d-451b-9bf3-78688902f2db.jpg",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ProfilePictures\\5617bfe5-8d5d-451b-9bf3-78688902f2db.jpg",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "assets/ProfilePictures/5617bfe5-8d5d-451b-9bf3-78688902f2db.jpg",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\ProfilePictures\\5617bfe5-8d5d-451b-9bf3-78688902f2db.jpg"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ProfilePictures\\722fa2c7-9752-448a-a9fb-49edfa0578fc.jpg",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ProfilePictures\\722fa2c7-9752-448a-a9fb-49edfa0578fc.jpg",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "assets/ProfilePictures/722fa2c7-9752-448a-a9fb-49edfa0578fc.jpg",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\ProfilePictures\\722fa2c7-9752-448a-a9fb-49edfa0578fc.jpg"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ProfilePictures\\933d1c9f-0787-458b-a0ca-3e7e6fcbf2df.jpg",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ProfilePictures\\933d1c9f-0787-458b-a0ca-3e7e6fcbf2df.jpg",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "assets/ProfilePictures/933d1c9f-0787-458b-a0ca-3e7e6fcbf2df.jpg",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\ProfilePictures\\933d1c9f-0787-458b-a0ca-3e7e6fcbf2df.jpg"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ProfilePictures\\9d64e216-daad-4d49-9b4f-1b94aee5622c.jpg",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ProfilePictures\\9d64e216-daad-4d49-9b4f-1b94aee5622c.jpg",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "assets/ProfilePictures/9d64e216-daad-4d49-9b4f-1b94aee5622c.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\ProfilePictures\\9d64e216-daad-4d49-9b4f-1b94aee5622c.jpg"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ProfilePictures\\a244efe0-aadc-4844-b6f7-b57670e17f70.jpg",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ProfilePictures\\a244efe0-aadc-4844-b6f7-b57670e17f70.jpg",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "assets/ProfilePictures/a244efe0-aadc-4844-b6f7-b57670e17f70.jpg",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\ProfilePictures\\a244efe0-aadc-4844-b6f7-b57670e17f70.jpg"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ProfilePictures\\ab10360e-ebb5-439d-a476-f2628d209924.jpg",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ProfilePictures\\ab10360e-ebb5-439d-a476-f2628d209924.jpg",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "assets/ProfilePictures/ab10360e-ebb5-439d-a476-f2628d209924.jpg",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\ProfilePictures\\ab10360e-ebb5-439d-a476-f2628d209924.jpg"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ProfilePictures\\b682cb5d-18f5-46ad-8b58-21ee851e96ef.jpg",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ProfilePictures\\b682cb5d-18f5-46ad-8b58-21ee851e96ef.jpg",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "assets/ProfilePictures/b682cb5d-18f5-46ad-8b58-21ee851e96ef.jpg",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\ProfilePictures\\b682cb5d-18f5-46ad-8b58-21ee851e96ef.jpg"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ProfilePictures\\b807a1c3-5911-4c6b-867e-9c628200f07d.jpg",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ProfilePictures\\b807a1c3-5911-4c6b-867e-9c628200f07d.jpg",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "assets/ProfilePictures/b807a1c3-5911-4c6b-867e-9c628200f07d.jpg",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\ProfilePictures\\b807a1c3-5911-4c6b-867e-9c628200f07d.jpg"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ProfilePictures\\d6401cb2-a0a1-4303-ba5f-0a4a8871246a.jpg",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ProfilePictures\\d6401cb2-a0a1-4303-ba5f-0a4a8871246a.jpg",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "assets/ProfilePictures/d6401cb2-a0a1-4303-ba5f-0a4a8871246a.jpg",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\ProfilePictures\\d6401cb2-a0a1-4303-ba5f-0a4a8871246a.jpg"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ProfilePictures\\fe5ccd62-223f-4d54-afce-5cbb83860668.jpg",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ProfilePictures\\fe5ccd62-223f-4d54-afce-5cbb83860668.jpg",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "assets/ProfilePictures/fe5ccd62-223f-4d54-afce-5cbb83860668.jpg",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\ProfilePictures\\fe5ccd62-223f-4d54-afce-5cbb83860668.jpg"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\testimg.jpg",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\testimg.jpg",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "assets/testimg.jpg",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\testimg.jpg"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\css\\Auth\\AuthStyle.css",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\css\\Auth\\AuthStyle.css",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "css/Auth/AuthStyle.css",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Auth\\AuthStyle.css"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\css\\Platform\\PlatformStyle.css",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\css\\Platform\\PlatformStyle.css",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "css/Platform/PlatformStyle.css",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Platform\\PlatformStyle.css"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\favicon.ico",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\favicon.ico",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\js\\Auth\\ForgotPassword.js",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\js\\Auth\\ForgotPassword.js",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "js/Auth/ForgotPassword.js",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\js\\Auth\\ForgotPassword.js"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\js\\Auth\\Login.js",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\js\\Auth\\Login.js",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "js/Auth/Login.js",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\js\\Auth\\Login.js"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\js\\Auth\\Register.js",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\js\\Auth\\Register.js",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "js/Auth/Register.js",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\js\\Auth\\Register.js"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\js\\Auth\\ResetPassword.js",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\js\\Auth\\ResetPassword.js",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "js/Auth/ResetPassword.js",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\js\\Auth\\ResetPassword.js"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\js\\Auth\\TogglePassword.js",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\js\\Auth\\TogglePassword.js",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "js/Auth/TogglePassword.js",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\js\\Auth\\TogglePassword.js"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\js\\Common\\SubmitAjax.js",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\js\\Common\\SubmitAjax.js",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "js/Common/SubmitAjax.js",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\js\\Common\\SubmitAjax.js"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\js\\Platfrom\\Platform.js",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\js\\Platfrom\\Platform.js",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "js/Platfrom/Platform.js",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\js\\Platfrom\\Platform.js"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\js\\Popups\\UserProfile.js",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\js\\Popups\\UserProfile.js",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "js/Popups/UserProfile.js",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\js\\Popups\\UserProfile.js"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\js\\site.js",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\js\\site.js",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1787,7 +1787,7 @@
       "Identity": "C:\\Users\\alptu\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "css/bootstrap.css",
       "AssetKind": "All",
@@ -1806,7 +1806,7 @@
       "Identity": "C:\\Users\\alptu\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css.map",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1825,7 +1825,7 @@
       "Identity": "C:\\Users\\alptu\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1844,7 +1844,7 @@
       "Identity": "C:\\Users\\alptu\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css.map",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1863,7 +1863,7 @@
       "Identity": "C:\\Users\\alptu\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1882,7 +1882,7 @@
       "Identity": "C:\\Users\\alptu\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css.map",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1901,7 +1901,7 @@
       "Identity": "C:\\Users\\alptu\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1920,7 +1920,7 @@
       "Identity": "C:\\Users\\alptu\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1939,7 +1939,7 @@
       "Identity": "C:\\Users\\alptu\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1958,7 +1958,7 @@
       "Identity": "C:\\Users\\alptu\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css.map",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1977,7 +1977,7 @@
       "Identity": "C:\\Users\\alptu\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1996,7 +1996,7 @@
       "Identity": "C:\\Users\\alptu\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css.map",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -2015,7 +2015,7 @@
       "Identity": "C:\\Users\\alptu\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -2034,7 +2034,7 @@
       "Identity": "C:\\Users\\alptu\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -2053,7 +2053,7 @@
       "Identity": "C:\\Users\\alptu\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -2072,7 +2072,7 @@
       "Identity": "C:\\Users\\alptu\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -2091,7 +2091,7 @@
       "Identity": "C:\\Users\\alptu\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -2110,7 +2110,7 @@
       "Identity": "C:\\Users\\alptu\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css.map",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2129,7 +2129,7 @@
       "Identity": "C:\\Users\\alptu\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2148,7 +2148,7 @@
       "Identity": "C:\\Users\\alptu\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2167,7 +2167,7 @@
       "Identity": "C:\\Users\\alptu\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -2186,7 +2186,7 @@
       "Identity": "C:\\Users\\alptu\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -2205,7 +2205,7 @@
       "Identity": "C:\\Users\\alptu\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -2224,7 +2224,7 @@
       "Identity": "C:\\Users\\alptu\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2243,7 +2243,7 @@
       "Identity": "C:\\Users\\alptu\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2262,7 +2262,7 @@
       "Identity": "C:\\Users\\alptu\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css.map",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2281,7 +2281,7 @@
       "Identity": "C:\\Users\\alptu\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2300,7 +2300,7 @@
       "Identity": "C:\\Users\\alptu\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2319,7 +2319,7 @@
       "Identity": "C:\\Users\\alptu\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2338,7 +2338,7 @@
       "Identity": "C:\\Users\\alptu\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2357,7 +2357,7 @@
       "Identity": "C:\\Users\\alptu\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2376,7 +2376,7 @@
       "Identity": "C:\\Users\\alptu\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2395,7 +2395,7 @@
       "Identity": "C:\\Users\\alptu\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2414,7 +2414,7 @@
       "Identity": "C:\\Users\\alptu\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js.map",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2433,7 +2433,7 @@
       "Identity": "C:\\Users\\alptu\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2452,7 +2452,7 @@
       "Identity": "C:\\Users\\alptu\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2471,7 +2471,7 @@
       "Identity": "C:\\Users\\alptu\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2490,7 +2490,7 @@
       "Identity": "C:\\Users\\alptu\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js.map",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2509,7 +2509,7 @@
       "Identity": "C:\\Users\\alptu\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2528,7 +2528,7 @@
       "Identity": "C:\\Users\\alptu\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js.map",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2547,7 +2547,7 @@
       "Identity": "C:\\Users\\alptu\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "js/bootstrap.js",
       "AssetKind": "All",
@@ -2566,7 +2566,7 @@
       "Identity": "C:\\Users\\alptu\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js.map",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2585,7 +2585,7 @@
       "Identity": "C:\\Users\\alptu\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2604,7 +2604,7 @@
       "Identity": "C:\\Users\\alptu\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js.map",
       "SourceId": "PasswordVaultUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
+      "ContentRoot": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\",
       "BasePath": "_content/PasswordVaultUI",
       "RelativePath": "js/bootstrap.min.js.map",
       "AssetKind": "All",

@@ -47,13 +47,16 @@ namespace PasswordVaultAPI.Application.CQRS.Commands.Platform.CreatePlatform
 
 			await _platformRepository.SaveAsync();
 
+			var user = await _userRepository.GetWhere(x => x.Id.ToString() == request.PlatformRequestDto.UserId).Select(x => x.UserName).FirstOrDefaultAsync();
+
+			_logger.LogInformation("Platfrom added {UserName}", user);
+
 			var platfromDto = new PlatformDTO
 			{
 				Id = newPlatform.Id.ToString(),
 
 			};
 
-			_logger.LogInformation("Platfrom added");
 
 			return new CreatePlatformCommandResponse
 			{

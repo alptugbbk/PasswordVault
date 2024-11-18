@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QmF/YIqjHEQ=",
+  "dgSpecHash": "47UMQ8rSm7Q=",
   "success": true,
-  "projectFilePath": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultAPI\\Infrastructure\\PasswordVaultAPI.Persistence\\PasswordVaultAPI.Persistence.csproj",
+  "projectFilePath": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultAPI\\Infrastructure\\PasswordVaultAPI.Persistence\\PasswordVaultAPI.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alptu\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\alptu\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

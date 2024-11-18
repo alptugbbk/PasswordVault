@@ -1,7 +1,6 @@
 ﻿using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using PasswordVaultAPI.Application.CQRS.Commands.User.CreateUser;
-using PasswordVaultAPI.Application.CQRS.Commands.User.GoogleLogin;
 using PasswordVaultAPI.Application.CQRS.Commands.User.ResetPassword;
 using PasswordVaultAPI.Application.CQRS.Queries.User.ForgotPassword;
 using PasswordVaultAPI.Application.CQRS.Queries.User.LoginUser;
@@ -35,15 +34,6 @@ namespace PasswordVaultAPI.API.Controllers
 
 		[HttpPost("Login")]
 		public async Task<LoginUserQueryResponse> Login(LoginUserQueryRequest request)
-		{
-			var response = await _mediator.Send(request);
-			return response;
-		}
-
-
-
-		[HttpPost("GoogleLogin")]
-		public async Task<GoogleLoginCommandResponse> GoogleLogin(GoogleLoginCommandRequest request)
 		{
 			var response = await _mediator.Send(request);
 			return response;

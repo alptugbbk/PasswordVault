@@ -27,32 +27,6 @@
   },
   {
     "ContainingType": "PasswordVaultAPI.API.Controllers.AuthController",
-    "Method": "GoogleLogin",
-    "RelativePath": "api/Auth/GoogleLogin",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "request",
-        "Type": "PasswordVaultAPI.Application.CQRS.Commands.User.GoogleLogin.GoogleLoginCommandRequest",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "PasswordVaultAPI.Application.CQRS.Commands.User.GoogleLogin.GoogleLoginCommandResponse",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "PasswordVaultAPI.API.Controllers.AuthController",
     "Method": "Login",
     "RelativePath": "api/Auth/Login",
     "HttpMethod": "POST",

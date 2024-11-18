@@ -68,6 +68,7 @@ $(document).ready(function () {
 
 // GET
 function loadUserPlatformList() {
+
 	$('#user-list').empty();
 	$.ajax({
 		url: '/Platform/GetPlatform',
@@ -147,8 +148,7 @@ $('#btn-update').on('click', function (event) {
 
 
 // DELETE
-$('#btn-delete').on('click', function (event) {
-	event.preventDefault();
+$('#btn-delete').on('click', function () {
 	const listid = $("#listid").val().trim();
 
 	if (!listid) {

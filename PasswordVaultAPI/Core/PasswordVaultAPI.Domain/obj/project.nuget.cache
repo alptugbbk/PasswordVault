@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eAh9jXdmRCI=",
+  "dgSpecHash": "8eNZl5akzqI=",
   "success": true,
-  "projectFilePath": "C:\\CdCenter\\csProjects\\PasswordVaultApp\\PasswordVaultAPI\\Core\\PasswordVaultAPI.Domain\\PasswordVaultAPI.Domain.csproj",
+  "projectFilePath": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultAPI\\Core\\PasswordVaultAPI.Domain\\PasswordVaultAPI.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

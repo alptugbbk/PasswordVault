@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PasswordVaultUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+603c5719d4956eae5cb87162a3482344710e8881")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6061c78dcc02cfa49eddab841c5457bcc1540e8e")]
 [assembly: System.Reflection.AssemblyProductAttribute("PasswordVaultUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PasswordVaultUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
