@@ -122,6 +122,7 @@ namespace PasswordVaultUI.Controllers
 				var user = JsonConvert.DeserializeObject<LoginResponseDTO>(result);
 
 				HttpContext.Session.SetString("UserId", user.User.Id.ToString());
+
 				HttpContext.Session.SetString("UserName", user.User.UserName);
 
 				if (loginViewModel.RememberMe)

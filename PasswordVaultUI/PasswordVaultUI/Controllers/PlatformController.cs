@@ -12,8 +12,8 @@ using System.Text;
 
 namespace PasswordVaultUI.Controllers
 {
-	[SessionCheckFilter]
-	public class PlatformController : Controller
+    [SessionCheckFilter]
+    public class PlatformController : Controller
     {
 
         private readonly HttpClient _httpClient;

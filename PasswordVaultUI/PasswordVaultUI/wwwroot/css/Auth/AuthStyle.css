@@ -2,7 +2,7 @@
 body {
     display: flex;
     font-family: 'poppins', sans-serif;
-    background: rgb(246, 246, 246);
+    background-color: #f8f9fa;
     padding: 40px 0 40px;
 }
 
@@ -14,8 +14,9 @@ html, body {
 
 /* AUTH DIV*/
 .auth-container {
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    background-color: white;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    border-radius: 8px;
+    background-color: #ffffff;
     width: 500px;
     height: 500px;
     display: flex;
@@ -79,7 +80,7 @@ html, body {
 
 
 
-    /*ALERT MESSAGE*/
+/*ALERT MESSAGE*/
 
 .message {
     color: red;
@@ -88,7 +89,7 @@ html, body {
 
 
 
-    /*TOGGLEPASSWORD*/
+/*TOGGLEPASSWORD*/
 
 .input-container {
     position: relative;
@@ -140,11 +141,9 @@ html, body {
     text-align: center;
 }
 
-.text-primary{
+.text-primary {
     display: inline-block;
-    white-space:nowrap;
-    cursor:pointer;
-    text-align:center;
+    white-space: nowrap;
+    cursor: pointer;
+    text-align: center;
 }
-
-

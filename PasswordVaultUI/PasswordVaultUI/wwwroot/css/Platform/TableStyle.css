@@ -1,0 +1,168 @@
+﻿
+.table-container {
+    width: 80%;
+    max-width: 750px;
+    height: 500px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    background-color: #ffffff;
+}
+
+
+.search-bar {
+    display: flex;
+    align-items: center;
+    padding: 2px;
+    border: 1px solid #dee2e6;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+    .search-bar input {
+        width: 100%;
+        padding: 10px;
+        font-size: 14px;
+        border: none;
+        background-color: transparent;
+        margin-left: 10px;
+        outline: none;
+    }
+
+        .search-bar input:focus {
+            border-color: #6c757d;
+        }
+
+.search-icon {
+    height: 25px;
+    width: 25px;
+    vertical-align: middle;
+    margin-left: 10px;
+}
+
+
+.table-wrapper {
+    height: 400px;
+    overflow-x: auto;
+    overflow-y: auto;
+    border-radius: 8px;
+    border: 1px solid #dee2e6;
+}
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+    .table thead {
+        position: sticky;
+        top: 0;
+    }
+
+
+        .table thead tr th {
+            background-color: #f6f6f6;
+            font-size: 16px;
+            font-weight: 600;
+            color: #495057;
+            text-align: left;
+            padding: 12px;
+            border-bottom: 2px solid #dee2e6;
+        }
+
+
+
+    .table tbody tr td {
+        font-size: 14px;
+        color: #495057;
+        padding: 12px;
+        text-align: left;
+    }
+   
+
+.password-container {
+    display: flex;
+    align-items: center;
+}
+
+    .password-container input {
+        border: none;
+        background: transparent;
+        font-size: 14px;
+        color: #495057;
+        width: 100px;
+    }
+
+        .password-container input:disabled {
+            color: #495057;
+        }
+
+.toggle-btn {
+    display: inline-block;
+    padding: 8px 16px;
+    background-color: #c8e7c7;
+    color: #60a264;
+    text-decoration: none;
+    font-size: 11px;
+    font-weight: bold;
+    border-radius: 4px;
+    transition: background-color 0.2s ease;
+    border: none;
+    margin-left: 20px;
+}
+
+    .toggle-btn:hover {
+        background-color: #43bd4a;
+        color: #ffffff;
+        cursor: pointer;
+    }
+
+.btn-delete {
+    display: inline-block;
+    padding: 8px 16px;
+    background-color: #ffced2;
+    color: #c82333;
+    text-decoration: none;
+    font-size: 11px;
+    font-weight: bold;
+    border-radius: 4px;
+    transition: background-color 0.2s ease;
+    border: none;
+}
+
+    .btn-delete:hover {
+        background-color: #fe5656;
+        color: #ffffff;
+        cursor: pointer;
+    }
+
+@media (max-width: 768px) {
+    .table thead {
+        display: none;
+    }
+
+    .table tbody tr {
+        display: block;
+        margin-bottom: 20px;
+    }
+
+        .table tbody tr td {
+            display: flex;
+            justify-content: space-between;
+            padding: 10px;
+            font-size: 14px;
+            border: none;
+            border-bottom: 1px solid #dee2e6;
+        }
+
+            .table tbody tr td:before {
+                content: attr(data-label);
+                font-weight: bold;
+                color: #495057;
+                flex-basis: 50%;
+            }
+
+    .search-bar input {
+        width: 100%;
+    }
+}

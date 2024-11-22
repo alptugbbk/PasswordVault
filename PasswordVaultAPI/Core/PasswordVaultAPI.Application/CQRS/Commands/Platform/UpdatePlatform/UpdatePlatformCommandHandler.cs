@@ -32,7 +32,7 @@ namespace PasswordVaultAPI.Application.CQRS.Commands.Platform.UpdatePlatform
 
 			if (platform == null)
 			{
-				throw new KeyNotFoundException("Platform not found.");
+				return null;
 			}
 
 			var passwordHash = _aesEncryption.EncryptPassword(request.UpdatePlatformRequestDTO.Password);

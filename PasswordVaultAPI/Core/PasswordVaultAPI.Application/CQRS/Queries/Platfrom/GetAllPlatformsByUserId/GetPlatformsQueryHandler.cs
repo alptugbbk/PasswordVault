@@ -28,7 +28,7 @@ namespace PasswordVaultAPI.Application.CQRS.Queries.Platform.GetAllPlatformsByUs
 
 			if (string.IsNullOrWhiteSpace(request.UserId))
 			{
-				throw new ArgumentException("UserId cannot be null", nameof(request.UserId));
+				return null;
 			}
 
 

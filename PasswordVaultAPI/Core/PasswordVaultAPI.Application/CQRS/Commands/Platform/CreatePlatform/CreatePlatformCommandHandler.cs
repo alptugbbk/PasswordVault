@@ -28,9 +28,10 @@ namespace PasswordVaultAPI.Application.CQRS.Commands.Platform.CreatePlatform
 
 		public async Task<CreatePlatformCommandResponse> Handle(CreatePlatformCommandRequest request, CancellationToken cancellationToken)
 		{
-			if (request.PlatformRequestDto == null) throw new PlatformCreationException();
-
-
+			if (request.PlatformRequestDto == null)
+			{
+                return null;
+            }
 
 			var passwordHash = _aesEncryption.EncryptPassword(request.PlatformRequestDto.Password);
 

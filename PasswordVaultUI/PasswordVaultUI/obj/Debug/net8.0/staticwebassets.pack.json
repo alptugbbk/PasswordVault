@@ -9,6 +9,14 @@
       "PackagePath": "staticwebassets\\assets\\ProfilePictures\\161a6e9e-1a8d-4159-e6eb-08dd055049b6_b0d1872e-b1f2-42c8-ad6b-905cd9e71716.jpg"
     },
     {
+      "Id": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ProfilePictures\\1b61fd6e-82a0-4db4-ab30-b9f707d1669c.png",
+      "PackagePath": "staticwebassets\\assets\\ProfilePictures\\1b61fd6e-82a0-4db4-ab30-b9f707d1669c.png"
+    },
+    {
+      "Id": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ProfilePictures\\2465d721-e835-425d-b96f-8d19c3e2096f.png",
+      "PackagePath": "staticwebassets\\assets\\ProfilePictures\\2465d721-e835-425d-b96f-8d19c3e2096f.png"
+    },
+    {
       "Id": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ProfilePictures\\24990aed-7ae9-4643-be6b-4f0a525ae792.jpg",
       "PackagePath": "staticwebassets\\assets\\ProfilePictures\\24990aed-7ae9-4643-be6b-4f0a525ae792.jpg"
     },
@@ -23,6 +31,10 @@
     {
       "Id": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ProfilePictures\\2ebaef51-dd6d-4ba7-a8bc-e36e940a5bd7.jpg",
       "PackagePath": "staticwebassets\\assets\\ProfilePictures\\2ebaef51-dd6d-4ba7-a8bc-e36e940a5bd7.jpg"
+    },
+    {
+      "Id": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ProfilePictures\\40387c46-9f9e-43c1-8ea5-6f03e10e2e86.png",
+      "PackagePath": "staticwebassets\\assets\\ProfilePictures\\40387c46-9f9e-43c1-8ea5-6f03e10e2e86.png"
     },
     {
       "Id": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ProfilePictures\\5617bfe5-8d5d-451b-9bf3-78688902f2db.jpg",
@@ -61,6 +73,14 @@
       "PackagePath": "staticwebassets\\assets\\ProfilePictures\\d6401cb2-a0a1-4303-ba5f-0a4a8871246a.jpg"
     },
     {
+      "Id": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ProfilePictures\\f0243771-51b1-43f2-9bdf-9f808a949d23.png",
+      "PackagePath": "staticwebassets\\assets\\ProfilePictures\\f0243771-51b1-43f2-9bdf-9f808a949d23.png"
+    },
+    {
+      "Id": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ProfilePictures\\fcb54a11-5fa5-4a4c-83c4-76b2f810bcd6.jpg",
+      "PackagePath": "staticwebassets\\assets\\ProfilePictures\\fcb54a11-5fa5-4a4c-83c4-76b2f810bcd6.jpg"
+    },
+    {
       "Id": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ProfilePictures\\fe5ccd62-223f-4d54-afce-5cbb83860668.jpg",
       "PackagePath": "staticwebassets\\assets\\ProfilePictures\\fe5ccd62-223f-4d54-afce-5cbb83860668.jpg"
     },
@@ -81,8 +101,8 @@
       "PackagePath": "staticwebassets\\assets\\ic_mail.png"
     },
     {
-      "Id": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ic_platfrom.png",
-      "PackagePath": "staticwebassets\\assets\\ic_platfrom.png"
+      "Id": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ic_platform.png",
+      "PackagePath": "staticwebassets\\assets\\ic_platform.png"
     },
     {
       "Id": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\ic_user_profile_null.png",
@@ -91,6 +111,14 @@
     {
       "Id": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\img_home.jpg",
       "PackagePath": "staticwebassets\\assets\\img_home.jpg"
+    },
+    {
+      "Id": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\search.png",
+      "PackagePath": "staticwebassets\\assets\\search.png"
+    },
+    {
+      "Id": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\social-media.png",
+      "PackagePath": "staticwebassets\\assets\\social-media.png"
     },
     {
       "Id": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\assets\\testimg.jpg",
@@ -103,6 +131,10 @@
     {
       "Id": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\css\\Platform\\PlatformStyle.css",
       "PackagePath": "staticwebassets\\css\\Platform\\PlatformStyle.css"
+    },
+    {
+      "Id": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\css\\Platform\\TableStyle.css",
+      "PackagePath": "staticwebassets\\css\\Platform\\TableStyle.css"
     },
     {
       "Id": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\favicon.ico",

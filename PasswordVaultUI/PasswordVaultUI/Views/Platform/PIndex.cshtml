@@ -1,93 +1,105 @@
 ﻿@model PlatformViewModel
 @{
-	Layout = "_Layout";
+    Layout = "_Layout";
 }
 
 
 <!doctype html>
 <html lang="en">
 <head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Platform Ekle</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Platform Ekle</title>
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-	<link href="~/css/platform/platformstyle.css" rel="stylesheet" />
+	<link href="~/css/platform/tablestyle.css" rel="stylesheet" />
+    <link href="~/css/platform/platformstyle.css" rel="stylesheet" />
 </head>
 <body>
 
-	<div class="container-wrapper">
+    <div class="container-wrapper">
 
-		<!--MESSAGE-->
-		<div id="message-container" class="position-fixed top-0 end-0 p-4 mt-5" style="z-index: 1050;">
-			<div id="success-message" class="alert alert-success d-none" role="alert">
-			</div>
-			<div id="error-message" class="alert alert-danger d-none" role="alert">
-			</div>
-		</div>
+        <!--MESSAGE-->
+        <div id="message-container" class="position-fixed top-0 end-0 p-4 mt-5" style="z-index: 1050;">
+            <div id="success-message" class="alert alert-success d-none" role="alert">
+            </div>
+            <div id="error-message" class="alert alert-danger d-none" role="alert">
+            </div>
+        </div>
 
-		<!-- INPUT CONTAINER -->
-		<div class="platform-container">
-			<form class="platform-form" id="platform-form">
-				<div class="img-container mb-5">
-					<img src="~/assets/ic_platfrom.png" />
-				</div>
-				<label class="usernamelabel">Welcome @Model.LoginUserName</label>
-				<input asp-for="Id" type="hidden" id="listid" />
-				<input asp-for="Name" type="text" id="name" class="form-control" placeholder="Platform Name" required />
-				<input asp-for="UserName" type="text" id="username" class="form-control" placeholder="Username" required />
-				<input asp-for="Password" type="password" id="password" class="form-control" placeholder="Password" required />
-
-
-				<div class="platformbtn-container">
-					<button type="submit" class="platform-button btn">Add</button>
-					<button type="button" class="platform-button btn" id="btn-delete">Delete</button>
-					<button type="button" class="platform-button btn" id="btn-update">Edit</button>
-				</div>
-			</form>
-		</div>
+        <!-- INPUT CONTAINER -->
+        <div class="platform-container">
+            <form class="platform-form" id="platform-form">
+                <div class="img-container mb-5">
+                    <img src="~/assets/ic_platform.png" />
+                </div>
+                <input asp-for="Id" type="hidden" id="listid" />
+                <input asp-for="Name" type="text" id="name" class="form-control" placeholder="Platform Name" required />
+                <input asp-for="UserName" type="text" id="username" class="form-control" placeholder="Username" required />
+                <input asp-for="Password" type="password" id="password" class="form-control" placeholder="Password" required />
 
 
-		<!-- LIST CONTAINER -->
-		<div class="platform-list-container">
-			<ul class="list-container" id="user-list"></ul>
-			<div id="error-message" style="color: red;"></div>
-		</div>
-
-	</div>
-
-	
+                <div class="platformbtn-container">
+                    <button type="submit" class="platform-button btn">Add</button>
+                    <button type="button" class="platform-button btn" id="btn-update">Edit</button>
+                </div>
+            </form>
+        </div>
 
 
-	<!--MODAL-->
-	<div class="modal fade" id="profileModal" tabindex="-1" aria-labelledby="profileModalLabel" aria-hidden="true">
-		<div class="modal-dialog modal-dialog-centered">
-			<div class="modal-content">
-				<div class="modal-header">
-					<h5 class="modal-title" id="profileModalLabel">Profile Info</h5>
-					<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-				</div>
-				<div class="modal-body">
-					<!--Profile image-->
-					<div class="mb-3 text-center">
-						<img src="~/assets/ic_user_profile_null.png" class="rounded-circle" id="profileImagePreview" style="width: 100px; height: 100px; object-fit: cover;">
-						<input type="file" id="profileImageUpload" class="form-control mt-2" onchange="previewImage(event)">
-					</div>
-					<!--Profile info-->
+        <!-- TABLE -->
+        <div class="table-container">
+            <div class="search-bar">
+                <img src="~/assets/search.png" class="search-icon" />
+                <input type="text" id="searchInput" placeholder="Search by Platform..." />
+            </div>
+
+            <div class="table-wrapper">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Platform</th>
+                            <th>Username</th>
+                            <th>Password</th>
+                            <th>Action</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tableBody">
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
 
 
-				</div>
-				<div class="modal-footer">
-					<button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-					<button type="button" class="btn btn-primary" onclick="saveProfile()">Save</button>
-				</div>
-			</div>
-		</div>
-	</div>
 
-	<script src="~/lib/jquery/dist/jquery.min.js"></script>
-	<script src="~/js/platfrom/platform.js"></script>
-	<script src="~/js/popups/userprofile.js"></script>
-	
-	
+
+        <!--MODAL-->
+        <div class="modal fade" id="profileModal" tabindex="-1" aria-labelledby="profileModalLabel" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="profileModalLabel">Profile Info</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        <!--Profile image-->
+                        <div class="mb-3 text-center">
+                            <img src="~/assets/ic_user_profile_null.png" class="rounded-circle" id="profileImagePreview" style="width: 100px; height: 100px; object-fit: cover;">
+                            <input type="file" id="profileImageUpload" class="form-control mt-2" onchange="previewImage(event)">
+                        </div>
+                        <!--Profile info-->
+
+
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                        <button type="button" class="btn btn-primary" onclick="saveProfile()">Save</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script src="~/lib/jquery/dist/jquery.min.js"></script>
+        <script src="~/js/platfrom/platform.js"></script>
+        <script src="~/js/popups/userprofile.js"></script>
 </body>
 </html>

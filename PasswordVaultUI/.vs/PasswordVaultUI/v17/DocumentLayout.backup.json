@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{787863AF-53C9-48D8-9B7D-8EC8FC8E4ABE}|PasswordVaultUI\\PasswordVaultUI.csproj|c:\\cdcenter\\csprojects\\passwordvault\\passwordvaultui\\passwordvaultui\\wwwroot\\js\\platfrom\\platform.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{787863AF-53C9-48D8-9B7D-8EC8FC8E4ABE}|PasswordVaultUI\\PasswordVaultUI.csproj|solutionrelative:passwordvaultui\\wwwroot\\js\\platfrom\\platform.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,19 +30,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Platform.js",
-              "DocumentMoniker": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\js\\Platfrom\\Platform.js",
-              "RelativeDocumentMoniker": "PasswordVaultUI\\wwwroot\\js\\Platfrom\\Platform.js",
-              "ToolTip": "C:\\CdCenter\\csProjects\\PasswordVault\\PasswordVaultUI\\PasswordVaultUI\\wwwroot\\js\\Platfrom\\Platform.js",
-              "RelativeToolTip": "PasswordVaultUI\\wwwroot\\js\\Platfrom\\Platform.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-18T08:04:52.629Z",
-              "EditorCaption": ""
             }
           ]
         }

@@ -1,7 +1,8 @@
 ﻿
 $(document).ready(function () {
 
-    loadNavbarProfilePicture();    
+    loadNavbarProfilePicture();   
+    
     $('#profileModal').on('show.bs.modal', function () {
         loadProfilePictureInModal();
     });
@@ -16,17 +17,15 @@ $(document).ready(function () {
 function loadNavbarProfilePicture() {
 
     $.ajax({
-        url: '/Platform/GetProfilePicture', // Sunucudan profil resmini al
+        url: '/Platform/GetProfilePicture',
         method: 'POST',
         success: function (response) {
-            if (response.success) {
-                $('#navbarProfileImage').attr('src', response.path + '?t=' + new Date().getTime());
-            } else {
-                console.error("Failed to load picture");
-            }
+
+            $('#navbarProfileImage').attr('src', response.path + '?t=' + new Date().getTime());
+
         },
         error: function () {
-            console.error("There was an error loading the profile picture");
+            
         }
     });
 }

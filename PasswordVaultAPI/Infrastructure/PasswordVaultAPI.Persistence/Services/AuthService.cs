@@ -38,7 +38,7 @@ namespace PasswordVaultAPI.Persistence.Services
 			if (registerDto == null)
 			{
 				_logger.LogError("Registration failed: details cannot be null {UserName}", registerDto.UserName);
-				throw new AuthException("Registration details cannot be null.");
+				return null;
 			}
 
 			var existingUser = await _userRepository.GetSingleAsync(x => x.UserName == registerDto.UserName || x.Email == registerDto.Email);
@@ -46,8 +46,9 @@ namespace PasswordVaultAPI.Persistence.Services
 			if (existingUser != null)
 			{
 				_logger.LogError("Registration failed:  with Username username or Email already exists {UserName}", registerDto.UserName);
-				throw new AuthException("A user with the same username or email already exists.");
-			}
+                return null;
+
+            }
 
             var newUser = new User
 			{
@@ -78,32 +79,32 @@ namespace PasswordVaultAPI.Persistence.Services
             if (loginDto == null)
 			{
 				_logger.LogError("Login failed: Detail cannot be null {UserName}", loginDto.UserName);
-				throw new AuthException("Login details cannot be null.");
-			}
+                return null;
+            }
 
             var user = await _userRepository.GetSingleAsync(x => x.UserName == loginDto.UserName);
    
             if (user == null)
 			{
 				_logger.LogError("Login failed: {UserName} not found with provided username or password", loginDto.UserName);
-				throw new AuthException("User not found with provided username or password.");
-			}
+                return null;
+            }
 
 			var verifyPassword = _shaEncryption.Encrypt(loginDto.Password, loginDto.UserName);
 
 			if(verifyPassword != user.Password)
 			{
 				_logger.LogError("Login failed: {UserName} not found with provided Username or Password", loginDto.UserName);
-				throw new AuthException("User not found with provided username and password.");
-			}
+                return null;
+            }
 
 			_logger.LogInformation("Successfully logged in. {UserName}", user.UserName);
 
 			return new UserDTO
 			{
-                Id = user.Id.ToString(),
+				Id = user.Id.ToString(),
 				UserName = user.UserName
-            };
+			};
 
         }
 

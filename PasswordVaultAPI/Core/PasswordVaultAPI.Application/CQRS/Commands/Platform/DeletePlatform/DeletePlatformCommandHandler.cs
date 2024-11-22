@@ -30,6 +30,7 @@ namespace PasswordVaultAPI.Application.CQRS.Commands.Platform.DeletePlatform
 			if (platform == null)
 			{
 				return new DeletePlatformCommandResponse { IsSuccess = false };
+				
 			}
 			else
 			{
