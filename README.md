@@ -15,5 +15,7 @@ Password Vault, kullanıcıların kayıtlı platform bilgilerini güvenli bir ş
 ---
 
 ![pvimage](https://github.com/user-attachments/assets/ce867ada-8763-47e1-90bf-8c63157d522b)
+![pvlog](https://github.com/user-attachments/assets/6be810aa-3a26-41b8-97f8-e40408dfebd4)
+
 
 
